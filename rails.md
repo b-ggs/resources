@@ -1,0 +1,24 @@
+# Ruby on Rails
+
+## Must-have gems
+Gems that I should take advantage of for any Rails project.
+* [bcrypt](https://github.com/codahale/bcrypt-ruby) - password stuff
+* [better\_errors](https://github.com/charliesome/better_errors) - better error pages
+* [capistrano](http://capistranorb.com/) - deployment
+* [puma](https://github.com/puma/puma) - web server
+* [figaro](https://github.com/laserlemon/figaro) - env variables
+* [bootstrap-sass](https://github.com/twbs/bootstrap-sass) - sass x bootstrap
+* [bootswatch-rails](https://github.com/maxim/bootswatch-rails) - swatches for bootstrap
+* [pry-byebug](https://github.com/deivid-rodriguez/pry-byebug) - binding.pry
+* [awesome\_print](https://github.com/michaeldv/awesome_print) - print objects with style
+* [underscore-rails](https://github.com/rweng/underscore-rails) - underscore.js x rails
+* [coffee-script-source](https://rubygems.org/gems/coffee-script-source/versions/1.10.0) - coffee x rails
+
+## Cool gems
+Gems that I found to be pretty cool, and want to remember when I may need them in the future.
+* [maphilight-rails](https://github.com/twoweb/maphilight-rails) - highlighting regions on an image
+* [httparty](https://github.com/jnunemaker/httparty) - http x rails
+
+## Additional resources
+* [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - community-driven styleguide
+* [awesome-ruby](http://awesome-ruby.com/) - compilation of gems
