@@ -11,3 +11,4 @@
 * [plotly.js](https://github.com/plotly/plotly.js) - graphing lib on top of d3
 * [notie.js](https://github.com/jaredreich/notie.js) - notification plugin for js
 * [reveal.js](https://github.com/hakimel/reveal.js) - HTML slides
+* [select2](https://select2.github.io/) - better select boxes
