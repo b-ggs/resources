@@ -14,12 +14,13 @@ Gems that I should take advantage of for any Rails project.
 * [underscore-rails](https://github.com/rweng/underscore-rails) - underscore.js x rails
 * [coffee-script-source](https://rubygems.org/gems/coffee-script-source/versions/1.10.0) - coffee x rails
 * [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) - fontawesome x rails
-* [seed\_dump](https://github.com/rroblak/seed_dump) - dump db data to seeds.rb
 
 ## Cool gems
 Gems that I found to be pretty cool, and want to remember when I may need them in the future.
 * [maphilight-rails](https://github.com/twoweb/maphilight-rails) - highlighting regions on an image
 * [httparty](https://github.com/jnunemaker/httparty) - http x rails
+* [acts\_as\_shopping\_cart](https://github.com/crowdint/acts_as_shopping_cart) - shopping cart gem
+* [seed\_dump](https://github.com/rroblak/seed_dump) - dump db data to seeds.rb
 
 ## Additional resources
 * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - community-driven styleguide
