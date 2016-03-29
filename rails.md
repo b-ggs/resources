@@ -13,6 +13,8 @@ Gems that I should take advantage of for any Rails project.
 * [awesome\_print](https://github.com/michaeldv/awesome_print) - print objects with style
 * [underscore-rails](https://github.com/rweng/underscore-rails) - underscore.js x rails
 * [coffee-script-source](https://rubygems.org/gems/coffee-script-source/versions/1.10.0) - coffee x rails
+* [font-awesome-rails](https://github.com/bokmann/font-awesome-rails) - fontawesome x rails
+* [seed\_dump](https://github.com/rroblak/seed_dump) - dump db data to seeds.rb
 
 ## Cool gems
 Gems that I found to be pretty cool, and want to remember when I may need them in the future.
