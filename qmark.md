@@ -8,3 +8,4 @@
 * [HackMyResume](https://github.com/hacksalot/HackMyResume) - resume generator
 * [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - literally my idol
 * [middleman](https://middlemanapp.com/) - static site generator
+* [tableau](https://public.tableau.com/s/) - data visualization
