@@ -6,3 +6,4 @@
 
 ## Additional resources
 * [android\_guides](https://github.com/codepath/android_guides) - extensive open source guide
+* [NavigationTabBar](https://github.com/DevLight-Mobile-Agency/NavigationTabBar) - navbar with colorful interactions
