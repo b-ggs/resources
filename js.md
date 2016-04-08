@@ -13,3 +13,4 @@
 * [reveal.js](https://github.com/hakimel/reveal.js) - HTML slides
 * [select2](https://select2.github.io/) - better select boxes
 * [async-then](https://github.com/rstacruz/async-then) - manipulate async ops
+* [popper.js](https://github.com/FezVrasta/popper.js) - poppers on side of element
