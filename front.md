@@ -11,4 +11,4 @@
 * [fontawesome](https://fortawesome.github.io/Font-Awesome/) - icon fonts
 
 ## Framework templates
-* [genetella](https://github.com/puikinsh/gentelella) - Bootstrap 3 admin template
+* [gentelella](https://github.com/puikinsh/gentelella) - Bootstrap 3 admin template
