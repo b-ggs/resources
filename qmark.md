@@ -9,3 +9,4 @@
 * [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - literally my idol
 * [middleman](https://middlemanapp.com/) - static site generator
 * [tableau](https://public.tableau.com/s/) - data visualization
+* [tvname](https://github.com/dbr/tvnamer) - TV show renamer
