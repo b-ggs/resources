@@ -28,3 +28,4 @@ Gems that I found to be pretty cool, and want to remember when I may need them i
 ## Additional resources
 * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - community-driven styleguide
 * [awesome-ruby](http://awesome-ruby.com/) - compilation of gems
+* [rspec-expectations](https://github.com/rspec/rspec-expectations) - readable rspec
