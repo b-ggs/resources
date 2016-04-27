@@ -24,6 +24,7 @@ Gems that I found to be pretty cool, and want to remember when I may need them i
 * [cancan](https://github.com/ryanb/cancan) - authorization gem
 * [cancancan](https://github.com/CanCanCommunity/cancancan) - cancan in active development
 * [devise](https://github.com/plataformatec/devise) - authorization gem
+* [brakeman](https://github.com/presidentbeef/brakeman) - security vulns
 
 ## Additional resources
 * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide) - community-driven styleguide
