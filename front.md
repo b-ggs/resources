@@ -12,3 +12,6 @@
 
 ## Framework templates
 * [gentelella](https://github.com/puikinsh/gentelella) - Bootstrap 3 admin template
+
+## Framework guides
+* [Bootstrap 4 Cheatsheet](http://hackerthemes.com/bootstrap-cheatsheet/#nav-tabs__dropdown) - Bootstrap 4 cheatsheet
