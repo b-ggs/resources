@@ -31,3 +31,4 @@ Gems that I found to be pretty cool, and want to remember when I may need them i
 * [awesome-ruby](http://awesome-ruby.com/) - compilation of gems
 * [rspec-expectations](https://github.com/rspec/rspec-expectations) - readable rspec
 * [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) - creating APIs with Rails
+* [Controller-specific Assets with Rails 4](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/) - controller-specific assets
