@@ -32,3 +32,4 @@ Gems that I found to be pretty cool, and want to remember when I may need them i
 * [rspec-expectations](https://github.com/rspec/rspec-expectations) - readable rspec
 * [APIs on Rails](http://apionrails.icalialabs.com/book/chapter_one) - creating APIs with Rails
 * [Controller-specific Assets with Rails 4](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/) - controller-specific assets
+* [Deploying a Rails App on Ubuntu 14.04 with Capistrano, Nginx, and Puma](https://www.digitalocean.com/community/tutorials/deploying-a-rails-app-on-ubuntu-14-04-with-capistrano-nginx-and-puma)
